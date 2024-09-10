@@ -1,0 +1,11 @@
+{
+    "uuid": "spotify-album-art@tomoweb.dev",
+    "name": "Spotify Album Art",
+    "description": "Show album art from Spotify on your desktop",
+    "comments": "Spotify Album Art is a Desklet that shows the album art of the currently playing song from Spotify on your desktop. Inspired by Soundbox Desklet.",
+    "website": "https://github.com/TypicalTomo/album-art-desklet",
+    "version": "1.0",
+    "contributors": "Tomislav Kaučić (TypicalTomo) - Author",
+    "prevent-decorations": true,
+    "max-instances": "1"
+}

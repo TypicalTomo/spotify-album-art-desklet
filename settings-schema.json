@@ -1,0 +1,16 @@
+{
+  "artSize": {
+    "type": "scale",
+    "description": "Album art size",
+    "min": 50,
+    "max": 300,
+    "default": 300,
+    "step": 10,
+    "indent": true
+  },
+  "textColor": {
+    "type": "colorchooser",
+    "default": "rgba(255, 255, 255, 1)",
+    "description": "Text color"
+  }
+}
